@@ -1,0 +1,11 @@
+text.example.net
+tfst.example.net
+tzst.example.net
+tzzst.example.net
+www.example.net
+www.example.org
+netapp.example.net
+mail1.example.net
+mail3.example.net
+mail7.example.net
+borg.example.net

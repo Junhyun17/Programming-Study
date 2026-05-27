@@ -2,21 +2,6 @@
 
 시스템프로그래밍 수업에서 학습한 셸 스크립트 예제들을 정리한 저장소입니다.
 
-## 예제 목록
-- rootls.sh
-- rootdir.sh
-- var.sh
-- sep_var.sh
-- today_date.sh
-- parameters.sh
-- run.sh
-- if-bin.sh
-- summary.sh
-- diary.sh
-- tree.sh
-- treeupgrade.sh
-- findgrep.sh
-
 ## 실행 방법
 
 우분투에서
