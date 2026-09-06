@@ -7,3 +7,4 @@
 - js
 - python
 - shell_script
+- C
